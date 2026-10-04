@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.7.3" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.lunixdev.puppyterminal.MainActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <entry
+            name="model"
+            string="drawable[puppy_logo(U)],mipmap[ic_launcher(U)],string[app_name(U),shell_settings(U),private_linux_notice(U),prepare_alpine(U),setup_description(U),bundled_linux_image(U),install_linux_environment(U),terminal_error(U),retry_installation(U),preparing(U),install_progress(U),terminal_banner(U),simulated_root_notice(U),linux_ready_notice(U),shell_integration_toggle(U),shell_integration_description(U),shell_setting_saved(U)];1^0;;;"/>
+    </map>
+
+</incidents>

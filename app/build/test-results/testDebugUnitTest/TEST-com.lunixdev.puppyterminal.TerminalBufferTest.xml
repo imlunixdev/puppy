@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.lunixdev.puppyterminal.TerminalBufferTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-10-04T11:53:08" hostname="MacBook-Neo-de-Luis.local" time="0.044">
+  <properties/>
+  <testcase name="readsShellIntegrationStateWithoutConsumingVisibleText" classname="com.lunixdev.puppyterminal.TerminalBufferTest" time="0.009"/>
+  <testcase name="writesTextAndMovesCursor" classname="com.lunixdev.puppyterminal.TerminalBufferTest" time="0.004"/>
+  <testcase name="safelyExtractsFilesAndDefersLinks" classname="com.lunixdev.puppyterminal.TerminalBufferTest" time="0.029"/>
+  <testcase name="handlesTrueColorAndReset" classname="com.lunixdev.puppyterminal.TerminalBufferTest" time="0.001"/>
+  <testcase name="supportsItalicDimAndUnderlineAttributesAndReset" classname="com.lunixdev.puppyterminal.TerminalBufferTest" time="0.0"/>
+  <testcase name="rejectsTarPathTraversalBeforeWritingOutsideRoot" classname="com.lunixdev.puppyterminal.TerminalBufferTest" time="0.001"/>
+  <testcase name="alternateScreenDisablesShellPromptMode" classname="com.lunixdev.puppyterminal.TerminalBufferTest" time="0.0"/>
+  <testcase name="clearsDisplay" classname="com.lunixdev.puppyterminal.TerminalBufferTest" time="0.0"/>
+  <testcase name="retainsBoundedScrollback" classname="com.lunixdev.puppyterminal.TerminalBufferTest" time="0.0"/>
+  <testcase name="rejectsAbsoluteTarPaths" classname="com.lunixdev.puppyterminal.TerminalBufferTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

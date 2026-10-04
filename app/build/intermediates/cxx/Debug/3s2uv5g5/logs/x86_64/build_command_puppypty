@@ -1,0 +1,4 @@
+/private/tmp/puppy-toolchain/android-sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/luis/Documents/releases/app/.cxx/Debug/3s2uv5g5/x86_64 \
+  puppypty

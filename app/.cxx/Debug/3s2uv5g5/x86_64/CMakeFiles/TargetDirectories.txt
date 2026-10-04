@@ -1,0 +1,3 @@
+/Users/luis/Documents/releases/app/.cxx/Debug/3s2uv5g5/x86_64/CMakeFiles/puppypty.dir
+/Users/luis/Documents/releases/app/.cxx/Debug/3s2uv5g5/x86_64/CMakeFiles/edit_cache.dir
+/Users/luis/Documents/releases/app/.cxx/Debug/3s2uv5g5/x86_64/CMakeFiles/rebuild_cache.dir

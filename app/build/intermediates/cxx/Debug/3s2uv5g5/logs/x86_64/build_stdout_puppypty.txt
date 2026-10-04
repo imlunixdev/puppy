@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/luis/Documents/releases/app/.cxx/Debug/3s2uv5g5/x86_64'
+ninja: no work to do.

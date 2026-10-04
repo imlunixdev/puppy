@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/luis/Documents/releases/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/private/tmp/puppy-toolchain/android-sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/luis/Documents/releases/app/.cxx/Debug/3s2uv5g5/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/private/tmp/puppy-toolchain/android-sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/luis/Documents/releases/app/.cxx/Debug/3s2uv5g5/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "puppypty::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "puppypty",
+      "output": "/Users/luis/Documents/releases/app/build/intermediates/cxx/Debug/3s2uv5g5/obj/x86_64/libpuppypty.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/tmp/puppy-toolchain/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/tmp/puppy-toolchain/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

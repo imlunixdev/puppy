@@ -1,0 +1,7 @@
+com.lunixdev.puppyterminal.app-pngs-0 /Users/luis/Documents/releases/app/build/generated/res/pngs/debug
+com.lunixdev.puppyterminal.app-resValues-1 /Users/luis/Documents/releases/app/build/generated/res/resValues/debug
+com.lunixdev.puppyterminal.app-packageDebugResources-2 /Users/luis/Documents/releases/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.lunixdev.puppyterminal.app-packageDebugResources-3 /Users/luis/Documents/releases/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.lunixdev.puppyterminal.app-debug-4 /Users/luis/Documents/releases/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.lunixdev.puppyterminal.app-debug-5 /Users/luis/Documents/releases/app/src/debug/res
+com.lunixdev.puppyterminal.app-main-6 /Users/luis/Documents/releases/app/src/main/res

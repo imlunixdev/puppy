@@ -1,0 +1,9 @@
+-- The CXX compiler identification is Clang 18.0.3
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /tmp/puppy-toolchain/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/luis/Documents/releases/app/.cxx/Debug/3s2uv5g5/x86_64

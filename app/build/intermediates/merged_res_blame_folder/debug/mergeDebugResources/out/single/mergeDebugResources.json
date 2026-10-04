@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/private/tmp/puppy-gradle-home/daemon/8.9/com.lunixdev.puppyterminal.app-debug-4:/drawable-nodpi_puppy_logo.png.flat",
+        "source": "/private/tmp/puppy-gradle-home/daemon/8.9/com.lunixdev.puppyterminal.app-main-6:/drawable-nodpi/puppy_logo.png"
+    },
+    {
+        "merged": "/private/tmp/puppy-gradle-home/daemon/8.9/com.lunixdev.puppyterminal.app-debug-4:/mipmap-nodpi_ic_launcher.png.flat",
+        "source": "/private/tmp/puppy-gradle-home/daemon/8.9/com.lunixdev.puppyterminal.app-main-6:/mipmap-nodpi/ic_launcher.png"
+    },
+    {
+        "merged": "/private/tmp/puppy-gradle-home/daemon/8.9/com.lunixdev.puppyterminal.app-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/private/tmp/puppy-gradle-home/daemon/8.9/com.lunixdev.puppyterminal.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.lunixdev.puppyterminal.app-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.lunixdev.puppyterminal.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

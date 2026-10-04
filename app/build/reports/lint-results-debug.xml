@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="6" by="lint 8.7.3">
+
+    <issue
+        id="SetWorldWritable"
+        severity="Warning"
+        message="Setting file permissions to world-writable can be risky, review carefully"
+        category="Security"
+        priority="6"
+        summary="`File.setWritable()` used to make file world-writable"
+        explanation="Setting files world-writable is very dangerous, and likely to cause security holes in applications. It is strongly discouraged; instead, applications should use more formal mechanisms for interactions such as `ContentProvider`, `BroadcastReceiver`, and `Service`."
+        url="https://goo.gle/SetWorldWritable"
+        urls="https://goo.gle/SetWorldWritable"
+        errorLine1="        File(root, &quot;tmp&quot;).setWritable(true, false)"
+        errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/luis/Documents/releases/app/src/main/java/com/lunixdev/puppyterminal/RootfsManager.kt"
+            line="169"
+            column="9"/>
+    </issue>
+
+    <issue
+        id="ObsoleteSdkInt"
+        severity="Warning"
+        message="This folder configuration (`v26`) is unnecessary; `minSdkVersion` is 26. Merge all the resources in this folder into `mipmap-anydpi`."
+        category="Performance"
+        priority="6"
+        summary="Obsolete SDK_INT Version Check"
+        explanation="This check flags version checks that are not necessary, because the `minSdkVersion` (or surrounding known API level) is already at least as high as the version checked for.&#xA;&#xA;Similarly, it also looks for resources in `-vNN` folders, such as `values-v14` where the version qualifier is less than or equal to the `minSdkVersion`, where the contents should be merged into the best folder.">
+        <location
+            file="/Users/luis/Documents/releases/app/src/main/res/mipmap-anydpi-v26"/>
+    </issue>
+
+</issues>

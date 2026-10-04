@@ -1,0 +1,15 @@
+# ninja log v5
+0	690	1791081207597172662	CMakeFiles/puppypty.dir/pty.cpp.o	daa15227e7a4776f
+691	843	1791081207753182237	/Users/luis/Documents/releases/app/build/intermediates/cxx/Debug/3s2uv5g5/obj/arm64-v8a/libpuppypty.so	2d1ac46226a2f495
+2	632	1791082010097636558	CMakeFiles/puppypty.dir/pty.cpp.o	daa15227e7a4776f
+632	814	1791082010286750958	/Users/luis/Documents/releases/app/build/intermediates/cxx/Debug/3s2uv5g5/obj/arm64-v8a/libpuppypty.so	2d1ac46226a2f495
+3	756	1791082181353152572	CMakeFiles/puppypty.dir/pty.cpp.o	daa15227e7a4776f
+757	917	1791082181519326514	/Users/luis/Documents/releases/app/build/intermediates/cxx/Debug/3s2uv5g5/obj/arm64-v8a/libpuppypty.so	2d1ac46226a2f495
+2	640	1791082357408090897	CMakeFiles/puppypty.dir/pty.cpp.o	daa15227e7a4776f
+640	767	1791082357538650911	/Users/luis/Documents/releases/app/build/intermediates/cxx/Debug/3s2uv5g5/obj/arm64-v8a/libpuppypty.so	2d1ac46226a2f495
+2	565	1791082504179788822	CMakeFiles/puppypty.dir/pty.cpp.o	daa15227e7a4776f
+565	692	1791082504308821416	/Users/luis/Documents/releases/app/build/intermediates/cxx/Debug/3s2uv5g5/obj/arm64-v8a/libpuppypty.so	2d1ac46226a2f495
+1	789	1791113822048473745	CMakeFiles/puppypty.dir/pty.cpp.o	daa15227e7a4776f
+790	966	1791113822228855088	/Users/luis/Documents/releases/app/build/intermediates/cxx/Debug/3s2uv5g5/obj/arm64-v8a/libpuppypty.so	2d1ac46226a2f495
+2	886	1791114405385065157	CMakeFiles/puppypty.dir/pty.cpp.o	daa15227e7a4776f
+886	1045	1791114405546272570	/Users/luis/Documents/releases/app/build/intermediates/cxx/Debug/3s2uv5g5/obj/arm64-v8a/libpuppypty.so	2d1ac46226a2f495

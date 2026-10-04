@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">puppy</string>
+    <string name="bundled_linux_image">Bundled Linux image · Alpine Linux 3.22.6</string>
+    <string name="install_linux_environment">Install Linux environment</string>
+    <string name="install_progress">%1$s · %2$d%%</string>
+    <string name="linux_ready_notice">Alpine Linux 3.22.6 · isolated in app storage</string>
+    <string name="prepare_alpine">Prepare Alpine Linux</string>
+    <string name="preparing">Preparing…</string>
+    <string name="private_linux_notice">Private Linux userspace · no Android root required</string>
+    <string name="retry_installation">Retry installation</string>
+    <string name="setup_description">puppy stores a minimal Linux filesystem in its private app storage. No root access is used. You can install more software later with pkg or apk.</string>
+    <string name="shell_integration_description">Adds puppy prompt modules and shell-state markers for supported shells. Fish keeps its native highlighting and suggestions. Changes apply when a new shell starts.</string>
+    <string name="shell_integration_toggle">Interactive shell enhancements</string>
+    <string name="shell_setting_saved">Saved · takes effect when the shell restarts</string>
+    <string name="shell_settings">Shell settings</string>
+    <string name="simulated_root_notice">Commands run as simulated root inside this private PRoot environment.</string>
+    <string name="terminal_banner">puppy terminal %1$s · Alpine Linux %2$s</string>
+    <string name="terminal_error">Terminal error · %1$s</string>
+</resources>

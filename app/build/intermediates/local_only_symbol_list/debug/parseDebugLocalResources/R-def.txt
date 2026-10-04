@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+drawable puppy_logo
+mipmap ic_launcher
+string app_name
+string bundled_linux_image
+string install_linux_environment
+string install_progress
+string linux_ready_notice
+string prepare_alpine
+string preparing
+string private_linux_notice
+string retry_installation
+string setup_description
+string shell_integration_description
+string shell_integration_toggle
+string shell_setting_saved
+string shell_settings
+string simulated_root_notice
+string terminal_banner
+string terminal_error

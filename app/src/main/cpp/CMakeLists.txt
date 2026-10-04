@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.22.1)
+project(puppypty LANGUAGES CXX)
+add_library(puppypty SHARED pty.cpp)
+target_compile_features(puppypty PRIVATE cxx_std_17)
+target_link_libraries(puppypty log)
