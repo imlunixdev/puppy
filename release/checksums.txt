@@ -1,0 +1,1 @@
+8a689ab9e5bdd69ae41f94c0d3ead09eccc1f6705d672a982165d7f425ed5a50  release/puppy-release.apk
